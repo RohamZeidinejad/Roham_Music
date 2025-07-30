@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.RohamMusic" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">#252525</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+
+    </style>
+
+    <style name="Theme.RohamMusic" parent="Base.Theme.RohamMusic" />
+</resources>
